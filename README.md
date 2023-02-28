@@ -7,3 +7,5 @@ I'm a frontend developer. Here I will show my progress in learning new technolog
 * Fell in love with the world of Internet Technologies
 
 ###### Let’s learn and do things...
+
+![Cover](https://i.postimg.cc/kGF642yK/fe73ac1f64bf283536a1adb0a1fdd673.jpg)
